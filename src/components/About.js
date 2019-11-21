@@ -4,7 +4,7 @@ const About = ()=>{
 	return(
 		<div className="container">
 			<h1 className="pageTitle">About</h1>
-			<p>Random Text About</p>
+			<p>I am Shylaja , Edited the About page</p>
 		</div>
 	)
 }
